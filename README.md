@@ -1,4 +1,4 @@
-# This repository Contains various Projects Created by me.
+# This repository Contains various Projects made by me.
 1.Student Information Management(C++).
 2.Home Tutor(Android app).
 3.Assignment Assigner(C#).
