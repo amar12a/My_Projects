@@ -1,2 +1,7 @@
-This project is created to Manage student information.In this project we are taking the information of user at the time of admission.Only authentic user allowed to manage students information.Later any student information can be viewed by user by entering student's Enrollment id/ Roll No. If a student leaves the school then its information can also be deleted from Database.If there is any mistake in entering students info or student info change later then that information can also be updated.
-Here we are storing students info in a file and later fetching from file stored on hard disk.
+This project is created to Manage student information.
+In this project we are taking the information of user at the time of admission.
+Only authentic user are allowed to manage students information i.e password protected.
+Later any student information can be viewed by user by entering student's Enrollment id/ Roll No.
+If a student leaves the school then its information can also be deleted from Database.
+If there is any mistake in entering students info or student info change later then that information can also be updated.
+Here we are storing students info in a file and later fetching details from file stored on hard disk.
