@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1555459290 source:f:\c++\mit2018\student_info_management\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<windows.h>
+
